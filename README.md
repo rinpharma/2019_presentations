@@ -1,6 +1,6 @@
 ## Building this document
 
-To build this README, run `build_readme.R`. Talks data is in csv `talks_table`
+To build this README, run `build_readme.R`. Talks data is in csv `talks_table.csv`
 
 ## Talks
 

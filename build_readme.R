@@ -15,7 +15,7 @@ data <- read_csv(loc_data)
 sink('README.md')
 
 cat("## Building this document\n\n")
-cat("To build this README, run `build_readme.R`. Talks data is in csv `talks_table`\n\n")
+cat("To build this README, run `build_readme.R`. Talks data is in csv `talks_table.csv`\n\n")
 
 cat("## Talks\n\n")
 cat("In alphabetical order.\n\n")

@@ -22,7 +22,7 @@ cat("In alphabetical order.\n\n")
 data %>%
   arrange(Name) %>%
   glue_data(
-    "<strong>{Name}</strong>, <i>{Affaliation}</i>; {Title}",
+    "<strong>{Name}</strong> (<i>{Affaliation}</i>), {Title}",
     "<details><summary>Abstract</summary>",
     "</p>{Abstract}</p><br>[Slides]({Slides})",
     "</details><br>"

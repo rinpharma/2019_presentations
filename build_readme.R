@@ -5,7 +5,7 @@ library(glue)
 
 ## Params
 
-loc_data <- "talks_table"
+loc_data <- "talks_table.csv"
 
 ## Process
 

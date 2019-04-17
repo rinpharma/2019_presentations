@@ -1,3 +1,14 @@
+## Adding talk
+
+First, make a branch :smile:
+
+Please add the talk metadata to the CSV in the order `Name` ,`Title`,`Affaliation`,`Abstract`,`Slides` with a comma
+between each item. If the abstract has commas, put the whole abstract in quotes so those commas are ignored. `Slides` should be a link to the slides. 
+
+If you have the PDF of the presentation, but the PDF in the folder *talks_folder*. The link will be `https://github.com/rinpharma/rinpharma2019program/tree/master/talks_folder/FILENAME.pdf`
+
+Now do a pull request from your branch back to master! :neckbeard:
+
 ## Building this document
 
 To build this README, run `build_readme.R`. Talks data is in csv `talks_table.csv`

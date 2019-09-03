@@ -9,7 +9,7 @@ loc_data <- "talks_table.csv"
 
 ## Process
 
-data <- read_csv(loc_data)
+data <- read_csv(loc_data,  locale = locale(encoding = 'latin1'))
 
 ## Print
 sink('README.md')

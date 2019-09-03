@@ -2,6 +2,16 @@
 
 To build this README, run `build_readme.R`. Talks data is in csv `talks_table.csv`
 
+## Workshops
+
+<strong>Joe Cheng</strong> (<i>RStudio</i>), Shiny Reproducibility<details><summary>Abstract</summary></p>Workshop: Shiny Reproducibility</p><br>[Link to Workshop Material](https://github.com/jcheng5/rpharma-shinymeta-workshop)</details><br>
+<strong>Andy Nicholls</strong> (<i>GSK</i>), R Validation Hub (past, current and future state)<details><summary>Abstract</summary></p>Workshop: R Validation Hub (past, current and future state)</p><br>[Link to Workshop Material](https://github.com/pharmaR/rpharma2019)</details><br>
+<strong>Leon Eyrich Jessen</strong> (<i>Technical University of Denmark</i>), Artificial neural networks in R with Keras and TensorFlow<details><summary>Abstract</summary></p>Workshop: Artificial neural networks in R with Keras and TensorFlow</p><br>[Link to Workshop Material](https://github.com/leonjessen/RPharma2019)</details><br>
+<strong>Max Kuhn</strong> (<i>RStudio</i>), Machine Learning<details><summary>Abstract</summary></p>Workshop: Machine Learning</p><br>[Link to Workshop Material](https://github.com/topepo/RPharma-2019-Workshop)</details><br>
+<strong>Carson Sievert</strong> (<i>RStudio</i>), plottly<details><summary>Abstract</summary></p>Workshop: plottly</p><br>[Link to Workshop Material](https://github.com/cpsievert/tutorials/tree/master/20190821)</details><br>
+<strong>Will Landau</strong> (<i>Eli Lilly</i>), Machine learning workflow management with drake<details><summary>Abstract</summary></p>Workshop: Machine learning workflow management with drake</p><br>[Link to Workshop Material](https://github.com/wlandau/learndrake)</details><br>
+
+
 ## Talks
 
 In alphabetical order.
